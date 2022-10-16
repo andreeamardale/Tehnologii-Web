@@ -1,0 +1,104 @@
+.myDiv{
+    background-color: #749F82;
+    color:white;
+    font-size: 30px;
+    font-weight:200;
+    text-align: center;
+    margin-top: -20px;
+    margin-bottom: -25px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-family: 'Lobster Two', cursive;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+.myDiv2{
+    background-color: #FFF7E9;
+    color: #1746A2;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+}
+
+.image1 {
+    width:90px;
+    height:100px;
+    border-radius: 50%;
+  }
+
+.myDiv3{
+    background-color: #FFF7E9;
+    text-align: center;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-bottom: 30px;
+    
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .myDiv4{
+    background-color: #FFD372;
+    color: #1746A2;
+    font-size: 20px;
+    text-align: center;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Lobster Two', cursive;
+
+  }
+
+  .image3{
+    border-radius: 50%;
+    width: 200px ;
+    height: 150px;
+  }
+
+  .myDiv5{
+    background-color:  #FFF7E9;
+    color: #1746A2;
+    font-size: 20px;
+    text-align: center;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Lobster Two', cursive;
+  }
+
+  .image2{
+    border-radius: 40%;
+    width: 400px;
+    height: 300px;
+  }
+  
+
+
+  .myDiv6{
+    background-color: #749F82;
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Lobster Two', cursive;
+    margin-bottom: -50px;
+    margin-left: -10px;
+    margin-right: -10px;
+
+  }
